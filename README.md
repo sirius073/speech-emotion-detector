@@ -62,16 +62,26 @@ The model (`EnhancedCNNLSTM`) combines:
 
 | Metric        | Value    |
 |---------------|----------|
-| Accuracy      | **92.6%** |
-| F1 Score      | 91.8%    |
-| Precision     | 92.4%    |
-| Recall        | 92.1%    |
+| Accuracy      | **77.6%** |
+| F1 Score      | 77%    |
+| Precision     | 78%    |
+| Recall        | 77%    |
 
 > Evaluation was done on a held-out validation split from the RAVDESS dataset.
 
 ---
 
 ## 🚀 How to Use
+First clone the repository using 
+```bash
+git clone https://github.com/<your-username>/speech-emotion-detector.git
+```
+Then go to the directory
+```bash
+cd speech-emotion-detector
+```
+Then follow these steps:-
+
 
 ### 🔹 1. Install Requirements
 
