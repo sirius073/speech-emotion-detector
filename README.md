@@ -1,4 +1,4 @@
-# 🎧 Speech Emotion Recognition
+# 🎧 Speech Emotion Detector
 
 This project is a deep learning-based system for recognizing **human emotions from audio** using a hybrid CNN-LSTM-Attention model. It supports:
 
@@ -74,7 +74,7 @@ The model (`EnhancedCNNLSTM`) combines:
 ## 🚀 How to Use
 First clone the repository using 
 ```bash
-git clone https://github.com/<your-username>/speech-emotion-detector.git
+git clone https://github.com/sirius073/speech-emotion-detector.git
 ```
 Then go to the directory
 ```bash
