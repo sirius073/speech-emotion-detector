@@ -98,7 +98,9 @@ python testing.py
 ✅ You'll be prompted to enter a folder path.
 
 📁 Example folder structure:
+
 audio_folder/
+
 ├── sample1.wav
 ├── sample2.wav
 └── ...
@@ -113,6 +115,9 @@ You can run the Streamlit app to upload and predict a single audio file interact
 ```bash
 streamlit run app.py
 ```
+🌐I have also hosted the app on Streamlit cloud
+Link : https://speech-emotion-detector-czrdqgjrhaheddkcqjf69e.streamlit.app/
+
 🖼️ The app supports:
 
 File upload (.wav)
@@ -124,8 +129,6 @@ Emotion display and playback
 🎙️ Add microphone-based live recording
 
 📈 Add visualizations (e.g., spectrogram, attention maps)
-
-🌐 Deploy app with Hugging Face Spaces or Streamlit Cloud
 
 
 Made with 💙 for speech understanding & deep learning.
